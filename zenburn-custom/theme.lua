@@ -109,7 +109,7 @@ theme.taglist_squares_unsel = themedir .. "/taglist/squareza.png"
 -- }}}
 
 -- {{{ Misc icons
---theme.awesome_icon           = themedir .. "/awesome.png"
+theme.awesome_icon           = themedir .. "/awesome-icon.png"
 --theme.menu_submenu_icon      = sharedthemes .. "/default/submenu.png"
 --theme.tasklist_floating_icon = sharedthemes .. "/default/tasklist/floatingw.png"
 -- }}}
